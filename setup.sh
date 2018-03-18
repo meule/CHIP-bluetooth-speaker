@@ -5,7 +5,7 @@
 # https://possiblelossofprecision.net/?p=1956
 # http://kodi.wiki/view/HOW-TO:Autostart_Kodi_for_Linux#Add_a_new_systemd_script
 
-NAME=${NAME:-CHIP Bluetooth speaker}
+NAME=${NAME:-Gutenberg}
 DEFAULT_PIN=${DEFAULT_PIN:-0000}
 
 # Make sure only root can run our script
